@@ -1,0 +1,1 @@
+print("Planova nema!!")
